@@ -1,0 +1,19 @@
+.big-box{
+    display: flex;
+    flex: -1;
+    justify-content: space-between;
+}
+
+.small-box{
+    width: 50px;
+    height: 50px;
+    /* border: 1px solid; */
+}
+
+/* .outlined{
+    outline: 1px solid #036cdb!important;
+} */
+
+.outlined {
+    border: 2px solid red; /* This gives an outline to the divs */
+}
